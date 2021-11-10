@@ -1,0 +1,68 @@
+
+body{
+    margin: 0;
+      
+    background-image: url(aaa/pattern.png);
+    
+    font-family: Tahoma;
+    line-height: 1.5px;
+    font-size: 18px;
+}
+.card {
+    width: 800px;
+    margin: 30px auto;
+    background-color:black;
+    box-shadow: gray 0 5pc 10pc;
+    color: black;
+    height: 1000pt;
+    border-radius: 10px;
+
+} 
+h1{
+   color: darkgray;
+   font-size: 47px;
+    
+   margin: 0pc 5pc;
+}
+h2 {
+    color: darkgray;
+    margin: 5pc 5pc;
+font-size: 35;
+}
+u {
+    color: darkgray; 
+    font-size: 35px;
+    margin: 10pc 5pc;
+}
+h3 {
+    color: darkgray; 
+    font-size: 25px;
+    margin: 3pc 5pc; 
+}
+h4{
+    color: darkgray; 
+    font-size: 25px;
+    margin: 1pc 5pc;
+
+}
+h5{
+    color: darkgray; 
+    font-size: 25px;
+    margin: 5pc 0pc;
+}
+li {
+    color: darkgray; 
+    font-size: 25px;
+    margin: 3pc 3pc;
+
+}
+u { color: darkgray; 
+    font-size: 35px;
+    margin: 10pc 5pc;
+
+}
+a {color: darkgray; 
+    font-size: 25px;
+    margin: 3pc 3pc;
+
+}
